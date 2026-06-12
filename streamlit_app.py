@@ -119,4 +119,3 @@ st.markdown("---")
 st.caption(
     "Academic Prototype: Demonstrates multi-agent orchestration using CrewAI."
 )
-
